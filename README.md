@@ -14,3 +14,6 @@ ROBLOX: @SayROAHM
 YouTube: Cyoclonic
 
 baiii :3
+
+P.S.
+You will need rojo for the best experience. Don't know how to set it up? Thats on you. There are plenty of tutorials, so don't ask me.
