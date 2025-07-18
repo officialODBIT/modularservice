@@ -1,0 +1,17 @@
+{
+  "name": "rojo",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/ServerScriptService"
+    },
+    "ModularService": {
+      "$className": "Folder",
+      "$path": "src/TEST_GAMESERV",
+      "StatConnect": {
+        "$path": "src/moduletest.lua"
+      }
+    }
+  }
+}
